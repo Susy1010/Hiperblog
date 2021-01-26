@@ -1,0 +1,47 @@
+[33mcommit bf403b7d86160b171107a8738e0553c5b079f7b2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: susana ramirez <susanaramirezhf@gmail.com>
+Date:   Mon Jan 25 11:14:21 2021 -0500
+
+    Commit al master del blogpost en su version mas reciente
+
+ Historia.txt    |  3 [32m++[m[31m-[m
+ blogspost.html  | 12 [32m++++++++[m[31m----[m
+ css/estilos.css | 20 [32m++++++++++++++++++[m[31m--[m
+ 3 files changed, 28 insertions(+), 7 deletions(-)
+
+[33mcommit 76b76b8171cf17e00845b985bdc247c1a95db58b[m
+Author: susana ramirez <susanaramirezhf@gmail.com>
+Date:   Sun Jan 24 13:55:03 2021 -0500
+
+    cambio de vida
+
+ Historia.txt | 4 [32m++[m[31m--[m
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit 3fc663068af988437282662d1d777415578c17f7[m
+Author: susana ramirez <susanaramirezhf@gmail.com>
+Date:   Sun Jan 24 13:52:44 2021 -0500
+
+    arranco mi proyecto real con html y css
+
+ blogspost.html  | 10 [32m++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit 1e8368960374acee47b190863b3c44da04c30d8d[m
+Author: susana ramirez <susanaramirezhf@gmail.com>
+Date:   Fri Jan 22 16:25:55 2021 -0500
+
+    agregamos cambios a su estudio
+
+ Historia.txt | 5 [32m++++[m[31m-[m
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+[33mcommit e0828f959145e4c41bf07c03127ed76f249c66cc[m
+Author: susy1010 <susanaramirezhf@gmail.com>
+Date:   Thu Jan 21 19:02:51 2021 -0500
+
+    este es el primer commit de este archivo
+
+ Historia.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
